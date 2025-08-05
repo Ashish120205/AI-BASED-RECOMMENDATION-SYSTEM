@@ -33,3 +33,7 @@ To manage dependencies and internal computation:
 Error handling is built into the program using try-catch blocks to handle exceptions like file read errors, non-existent user IDs, or malformed data. If there are no recommendations for a given user (e.g., due to lack of data), the program gracefully informs the user instead of crashing. The recommendation process is also scalable and can easily handle larger datasets if needed.
 
 In conclusion, this recommender application not only teaches the essentials of building an item-based collaborative filtering system using Mahout, but also integrates practical usage of third-party libraries for file handling, mathematical computation, and logging. It reflects how modern recommender systems function internally and provides a foundation for extending the system into more complex domains such as hybrid recommendation models, real-time updates, and personalized content filtering.
+
+
+
+<img width="1455" height="950" alt="Image" src="https://github.com/user-attachments/assets/4262db8d-d3b0-44b2-800d-c434558988f6" />
